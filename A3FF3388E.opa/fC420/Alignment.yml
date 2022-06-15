@@ -1,0 +1,19 @@
+segment_sources:
+  IB28EEDF1:
+    type: origin_type
+    relation: translation
+    language: en
+  IBF4C4252:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a8a340b29814405080ffbf50bbdca4b1:
+    IB28EEDF1: 54070cc56b244f348ab0c44d4e3c5614
+    IBF4C4252: 57c7a279ad494be08e1723c6f78c34c5
+  b6a065708ead44b58b9967a212b94d08:
+    IB28EEDF1: 8432f394f24c4dfc8292a67c083d0c66
+    IBF4C4252: 47be40eb84b944b59c09e46f2ec4d710
+  29736853460d448ab56c9e916f2ed1b3:
+    IB28EEDF1: 8eb20c4101624af795b4e240ca321072
+    IBF4C4252: fd95a93bdab642c9bfe397dca000fe81
